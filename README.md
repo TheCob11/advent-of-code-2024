@@ -1,11 +1,27 @@
 <img src="./.assets/christmas_ferris.png" width="164">
 
-# 🎄 Advent of Code {year}
+# 🎄 Advent of Code 2024
 
 Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.rust-lang.org/).
 
 <!--- advent_readme_stars table --->
 
+<!--- benchmarking table --->
+## Benchmarks
+
+| Day | Part 1 | Part 2 |
+| :---: | :---: | :---:  |
+| [Day 1](./src/bin/01.rs) | `62.5µs` | `80.2µs` |
+| [Day 2](./src/bin/02.rs) | `237.4µs` | `274.2µs` |
+| [Day 3](./src/bin/03.rs) | `118.7µs` | `98.5µs` |
+| [Day 4](./src/bin/04.rs) | `120.1µs` | `72.3µs` |
+| [Day 5](./src/bin/05.rs) | `129.5µs` | `212.5µs` |
+| [Day 6](./src/bin/06.rs) | `394.3µs` | `1.4s` |
+| [Day 7](./src/bin/07.rs) | `416.3µs` | `496.5µs` |
+| [Day 8](./src/bin/08.rs) | `83.9µs` | `171.7µs` |
+| [Day 9](./src/bin/09.rs) | `74.0µs` | `-` |
+
+**Total: 1403.04ms**
 <!--- benchmarking table --->
 
 ---
